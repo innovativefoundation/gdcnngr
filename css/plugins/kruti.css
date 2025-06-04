@@ -1,0 +1,10 @@
+/*
+Flaticon icon font: kruti dev
+*/
+@font-face {
+	font-family: 'krutidev';
+	src: url('../../fonts/k010.eot');
+	src: url('../../fonts/k010.ttf') format('truetype'),url('../../fonts/k010.woff') format('woff'),url('../../fonts/k010.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
